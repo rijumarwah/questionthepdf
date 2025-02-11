@@ -7,7 +7,11 @@ FastAPI-based, allows you to ask questions about PDF/Text file.
 4) Return answer in real-time
 
 ✅ Supports PDF & text files
+
 ✅ Uses FAISS for efficient text search
+
 ✅ Works with Together AI (Llama-3.3 70B / Mistral 7B)
+
 ✅ FastAPI backend for quick responses
+
 ✅ Can be deployed locally or in the cloud
